@@ -22,10 +22,10 @@ root@h:cd ~/Downloads$sudo ./install_SDL2.sh
  - Use up and down arrow keys to move forward and backward (keys w and s serve the same function)
  - Use right and left arrow keys to turn the camera arround (keys d and a serve the same function)
 # Controls
- W or up arrow key - Moving forward
- S or down arrow - Moving backward
- left arrow key - to rotate the player in counter clock wise direction
- right arrow key - to rotate the player in clock wise direction
+ - W or up arrow key - Moving forward
+ - S or down arrow - Moving backward
+ - left arrow key - to rotate the player in counter clock wise direction
+ - right arrow key - to rotate the player in clock wise direction
 
 
 # project Demo
