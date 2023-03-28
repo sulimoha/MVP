@@ -1,5 +1,4 @@
 # 3D_Maze Project
-![maze gif](https://github.com/sulimoha/MVP)
 - The Maze is a 3D Maze game that uses ray casting to render a 2D map into a 3D navigable world!.
 - This game was written in C using SDL2 library. Deveploment was performed using Ubuntu 14.04 LTS - gcc (Ubuntu 4.8.4-2ubuntu1~14.04) 4.8.4.
 
@@ -30,7 +29,7 @@ root@h:cd ~/Downloads$sudo ./install_SDL2.sh
 
 
 # project Demo
- (https://github.com/sulimoha/MVP)
+ ([https://github.com/sulimoha/MVP](https://github.com/sulimoha/MVP/blob/main/2023-03-23-18-21-09.mp4))
 # Authors
 - Mohamed Suliman(https://github.com/sulimoha)
 
