@@ -29,7 +29,7 @@ root@h:cd ~/Downloads$sudo ./install_SDL2.sh
 
 
 # project Demo
- ([https://github.com/sulimoha/MVP](https://github.com/sulimoha/MVP/blob/main/2023-03-23-18-21-09.mp4))
+- https://www.youtube.com/watch?v=_YB7n9NAX-g
 # Authors
-- Mohamed Suliman(https://github.com/sulimoha)
+- Mohamed Suliman https://www.linkedin.com/in/mohamed-suliman-o 
 
